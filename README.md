@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-- 👨‍💻 Currently working at **Cognizant Technology Solutions** as a **Programmer Analyst – GP** in the **CyberSecurity IDAM Department**
+- 👨‍💻 Currently working at **Cognizant Technology Solutions** as a **Programmer Analyst – GP** in the **CyberSecurity IDAM** Department
 - 🔐 I’m currently working on **CyberArk PAM Administration**
 - 📫 How to reach me: Shalom.MelvinHanotiya@cognizant.com
 
