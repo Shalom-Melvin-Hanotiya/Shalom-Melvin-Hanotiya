@@ -1,4 +1,4 @@
-## Hello there, It's Melvin 👋
+## Hello There, It's Melvin 👋
 
 - 👨‍💻 Currently working at **Cognizant Technology Solutions** as a **Programmer Analyst – GP** in the **CyberSecurity IDAM** Department
 - 🔐 I’m currently working on **CyberArk PAM Administration**
